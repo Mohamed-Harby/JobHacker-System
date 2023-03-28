@@ -3,9 +3,9 @@
 This repository contains the code and documentation for my Java internship at JobHacker Community. The internship consisted of several tasks focused on developing Java applications and improving my programming skills.
 
 ## Tasks
-The internship included the following task
+The internship included the following tasks
 
-- Task 1: Create my first java program and run it using terminal
+- Task 1: (preparation-week) Create my first java program and run it using terminal 
 
 
 ## Technologies Used
