@@ -1,3 +1,5 @@
+package week3.src.bonus;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
@@ -5,8 +7,6 @@ import java.util.List;
 import java.util.Map;
 
 import week3.src.Duplicate;
-
-package week3.src.bonus;
 
 public class CommonValues {
 
