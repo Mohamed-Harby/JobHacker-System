@@ -1,4 +1,4 @@
-// package week3.src;
+package week3.src;
 
 import java.io.IOException;
 import java.util.Scanner;
