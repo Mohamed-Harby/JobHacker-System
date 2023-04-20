@@ -1,8 +1,5 @@
 package week3.src;
 
-import java.io.IOException;
-import java.util.Scanner;
-
 public class Fibonacci {
     public static void fibonacciSeries(int n) {
         if (n == 0 || n == 1) {

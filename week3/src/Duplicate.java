@@ -1,10 +1,9 @@
-import java.lang.reflect.Array;
+package week3.src;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
 import java.util.List;
-
-package week3.src;
 
 public class Duplicate {
 
