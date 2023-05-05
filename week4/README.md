@@ -12,3 +12,8 @@ design a class named Rectangle to represent a rectangle. The class contains:
 Draw the UML diagram for the class then implement the class. Write a test pro-
 gram that creates two Rectangle objects—one with width 4 and height 40 , and the other with width 3.5 and height 35.9 . Display the width, height, area, and
 perimeter of each rectangle in this order.
+
+### UML Diagram
+<p align="center">
+    <img src="Rectangle-UML.svg" width="360" />
+</p>
