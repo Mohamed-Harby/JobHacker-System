@@ -1,0 +1,11 @@
+<div class="container">
+  <div class="add-task">
+    <textarea [(ngModel)]="newTaskText" placeholder="Enter new task"></textarea>
+    <button (click)="addTask()" class="btn">Add Task</button>
+  </div>
+  <app-task-item
+    *ngFor="let task of tasks"
+    [task]="task"
+    (taskFinished)="deleteTask($event)"
+  ></app-task-item>
+</div>

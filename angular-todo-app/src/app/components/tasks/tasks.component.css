@@ -1,0 +1,33 @@
+.add-task {
+    background-color: #F3F2F8;
+    border: 2px solid #5C5470;
+    padding: 10px;
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-height: 200px;
+  }
+  
+  .add-task textarea {
+    width: 100%;
+    padding: 6px;
+    margin-bottom: 10px;
+    border: 1px solid #5C5470;
+    border-radius: 4px;
+    resize: vertical;
+  }
+  
+  
+  .add-task .finish-btn {
+    background-color: #5C5470;
+    color: #fff;
+    border: none;
+    padding: 6px 12px;
+    cursor: pointer;
+  }
+  
+  .add-task .finish-btn:hover {
+    background-color: #B9B4C7;
+  }
+  
